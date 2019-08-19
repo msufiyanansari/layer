@@ -1,0 +1,10 @@
+D:\Client Project\Web Application\saioncorp\layer\Saioncorp\Saioncorp\obj\Debug\netcoreapp2.2\Saioncorp.csprojAssemblyReference.cache
+D:\Client Project\Web Application\saioncorp\layer\Saioncorp\Saioncorp\obj\Debug\netcoreapp2.2\Saioncorp.csproj.CoreCompileInputs.cache
+D:\Client Project\Web Application\saioncorp\layer\Saioncorp\Saioncorp\obj\Debug\netcoreapp2.2\Saioncorp.RazorAssemblyInfo.cache
+D:\Client Project\Web Application\saioncorp\layer\Saioncorp\Saioncorp\obj\Debug\netcoreapp2.2\Saioncorp.RazorAssemblyInfo.cs
+D:\Client Project\Web Application\saioncorp\layer\Saioncorp\Saioncorp\obj\Debug\netcoreapp2.2\Saioncorp.AssemblyInfoInputs.cache
+D:\Client Project\Web Application\saioncorp\layer\Saioncorp\Saioncorp\obj\Debug\netcoreapp2.2\Saioncorp.AssemblyInfo.cs
+D:\Client Project\Web Application\saioncorp\layer\Saioncorp\Saioncorp\obj\Debug\netcoreapp2.2\Saioncorp.TagHelpers.input.cache
+D:\Client Project\Web Application\saioncorp\layer\Saioncorp\Saioncorp\obj\Debug\netcoreapp2.2\Saioncorp.TagHelpers.output.cache
+D:\Client Project\Web Application\saioncorp\layer\Saioncorp\Saioncorp\obj\Debug\netcoreapp2.2\Saioncorp.dll
+D:\Client Project\Web Application\saioncorp\layer\Saioncorp\Saioncorp\obj\Debug\netcoreapp2.2\Saioncorp.pdb

@@ -1,0 +1,41 @@
+﻿<div class="featured-products-row">
+    <div class="inner-container">
+        <div class="home-page-title">Featured products</div>
+        <ul class="homepage-listing">
+            @foreach (var product in ViewBag.Products)
+            {
+                <li>
+                    <div class="product-name-pricing-box">
+                        <div class="pnpb-name">@product.ProductName</div>
+                        <div class="pnpb-cs">From $ @product.ProductRate</div>
+                    </div>
+                    <div class="product-dec-box">
+                        @product.ProductDesc
+                    </div>
+                    <a href="#" class="product-addtocart-btn">View More</a>
+                </li>
+            }
+            </ul>
+    </div>
+</div>
+
+<div class="current-promotions-row">
+    <div class="inner-container">
+        <div class="home-page-title">Current Promotions</div>
+        <ul class="homepage-listing">
+            @foreach (var promotion in ViewBag.Promotions)
+            {
+                <li>
+                    <div class="product-name-pricing-box">
+                        <div class="pnpb-name">@promotion.PromotionName</div>
+                        <div class="pnpb-cs">From $ @promotion.PromotionRate</div>
+                    </div>
+                    <div class="product-dec-box">
+                        @promotion.PromotionDesc
+                    </div>
+                    <a href="#" class="product-addtocart-btn">View More</a>
+                </li>
+            }
+        </ul>
+    </div>
+</div>
